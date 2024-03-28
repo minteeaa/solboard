@@ -1,0 +1,6 @@
+name: SolBoard
+main: pw.mintea.solboard.SolBoard
+version: ${version}
+description: Packet based scoreboard Skript addon implementing FastBoards.
+author: mintea
+softdepend: [Skript]
